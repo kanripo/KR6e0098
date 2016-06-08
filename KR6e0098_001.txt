@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:10.326045
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:42
 #+TITLE: 華嚴經金師子章註
 #+PROPERTY: CBETA_ID T45n1881
 #+PROPERTY: ID KR6e0098
@@ -14,7 +14,7 @@
 ¶
 No.1881¶
 
-金師子章序
+* 金師子章序
 :PROPERTIES:
 :head: 金師子章序
 :END:
